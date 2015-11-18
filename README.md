@@ -21,9 +21,9 @@ This script to query detailed information of
 
 
 
- #================================================================================
- #   query detailed dependencies of a package
- #================================================================================
+#================================================
+#   query detailed dependencies of a package
+#=================================================
 
  [abc@localhost ~]$ ./rpmyum.py -r wireless-tools
 
@@ -98,9 +98,9 @@ This script to query detailed information of
   Done!
 
 
- #================================================================================
+ #==============================================
  #   query detailed information of a package
- #================================================================================
+ #===============================================
 
 
  [abc@localhost ~]$ ./rpmyum.py -d wireless-tools
