@@ -22,6 +22,7 @@ This script to query detailed information of
 
  =============================================
  
+ 
     query detailed dependencies of a package
  
  =============================================
@@ -100,6 +101,7 @@ This script to query detailed information of
 
 
  ==============================================
+ 
  
     query detailed information of a package
  
