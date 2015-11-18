@@ -62,44 +62,44 @@ This script to query detailed information of
     9    revisor-comps;2.1.4-1.fc10;noarch;installed     Revisor Comps
  Files
 
-   10    system-config-network-tui;1.5.93-2.fc10;noarch;installed
+    10    system-config-network-tui;1.5.93-2.fc10;noarch;installed
  The Network Adminstration Tool
 
-   11    revisor-cli;2.1.4-1.fc10;noarch;installed       Revisor CLI
+    11    revisor-cli;2.1.4-1.fc10;noarch;installed       Revisor CLI
  components
 
-   12    revisor-gui;2.1.2-2.fc10;noarch;installed       Revisor GUI
+    12    revisor-gui;2.1.2-2.fc10;noarch;installed       Revisor GUI
 
-   13    system-config-firewall-tui;1.2.13-2.fc10;noarch;installed       A
+    13    system-config-firewall-tui;1.2.13-2.fc10;noarch;installed       A
  text interface for basic firewall setup
 
-   14    anaconda;11.4.1.62-1;i386;installed     Graphical system installer
+    14    anaconda;11.4.1.62-1;i386;installed     Graphical system installer
 
-   15    system-config-kickstart;2.7.20-1.fc10;noarch;installed  A
+    15    system-config-kickstart;2.7.20-1.fc10;noarch;installed  A
  graphical interface for making kickstart files
 
-   16    system-config-display;1.1.1-1.fc10;noarch;installed     A
+    16    system-config-display;1.1.1-1.fc10;noarch;installed     A
  graphical interface for configuring the X Window System display
 
-   17    rhpl;0.218-1;i386;installed     Library of Python code used by
+    17    rhpl;0.218-1;i386;installed     Library of Python code used by
  installation and configuration tools
 
-   18    system-config-firewall;1.2.13-2.fc10;noarch;installed   A
+    18    system-config-firewall;1.2.13-2.fc10;noarch;installed   A
  graphical interface for basic firewall setup
 
-   19    revisor;2.1.2-2.fc10;noarch;installed   Fedora "Spin" Graphical
+    19    revisor;2.1.2-2.fc10;noarch;installed   Fedora "Spin" Graphical
  User Interface
 
-   20    system-config-users;1.2.81-1.fc10;noarch;installed      A
+    20    system-config-users;1.2.81-1.fc10;noarch;installed      A
  graphical interface for administering users and groups
 
-   21    system-config-date;1.9.34-1.fc10;noarch;installed       A
+    21    system-config-date;1.9.34-1.fc10;noarch;installed       A
  graphical interface for modifying system date and time
 
-   22    system-config-language;1.3.2-3.fc10;noarch;installed    A
+    22    system-config-language;1.3.2-3.fc10;noarch;installed    A
  graphical interface for modifying the system language
 
-  Done!
+    Done!
 
 
  ==============================================
