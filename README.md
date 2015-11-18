@@ -89,20 +89,17 @@ query detailed information of a package
 
  [abc@localhost ~]$ ./rpmyum.py -d wireless-tools
 
- Retrieving the detailed information of package: wireless-tools
+     Retrieving the detailed information of package: wireless-tools
 
- Package ID  :  wireless-tools;1:29-2.fc9;i386;installed
+     Package ID  :  wireless-tools;1:29-2.fc9;i386;installed
 
- Group       :  other
+     Group       :  other
 
- Description :  This package contain the Wireless tools, used to manipulate
- the Wireless Extensions. The Wireless Extension is an interface allowing
- you to set Wireless LAN specific parameters and get the specific stats for
- wireless networking equipment.
+     Description :  This package contain the Wireless tools, used to manipulate  the Wireless Extensions. The Wireless Extension is an interface allowing  you to set Wireless LAN specific parameters and get the specific stats for  wireless networking equipment.
 
- Size        :  191  KB
+     Size        :  191  KB
 
- Files       :
+     Files       :
 
     1  : /lib/libiw.so.29
 
