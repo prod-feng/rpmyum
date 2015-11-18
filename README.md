@@ -145,24 +145,24 @@ query detailed information of a package
 
     9  : /usr/share/doc/wireless-tools-29/DISTRIBUTIONS.txt
 
-   10  : /usr/share/doc/wireless-tools-29/INSTALL
+    10  : /usr/share/doc/wireless-tools-29/INSTALL
 
-   11  : /usr/share/doc/wireless-tools-29/README
+    11  : /usr/share/doc/wireless-tools-29/README
 
-   12  : /usr/share/man/man5/iftab.5.gz
+    12  : /usr/share/man/man5/iftab.5.gz
 
-   13  : /usr/share/man/man7/wireless.7.gz
+    13  : /usr/share/man/man7/wireless.7.gz
 
-   14  : /usr/share/man/man8/ifrename.8.gz
+    14  : /usr/share/man/man8/ifrename.8.gz
 
-   15  : /usr/share/man/man8/iwconfig.8.gz
+    15  : /usr/share/man/man8/iwconfig.8.gz
 
-   16  : /usr/share/man/man8/iwevent.8.gz
+    16  : /usr/share/man/man8/iwevent.8.gz
 
-   17  : /usr/share/man/man8/iwgetid.8.gz
+    17  : /usr/share/man/man8/iwgetid.8.gz
 
-   18  : /usr/share/man/man8/iwlist.8.gz
+    18  : /usr/share/man/man8/iwlist.8.gz
 
-   19  : /usr/share/man/man8/iwpriv.8.gz
+    19  : /usr/share/man/man8/iwpriv.8.gz
 
-   20  : /usr/share/man/man8/iwspy.8.gz
+    20  : /usr/share/man/man8/iwspy.8.gz
