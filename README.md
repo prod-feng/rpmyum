@@ -19,11 +19,12 @@ This script to query detailed information of
  programs. It would also be interesting if to extend it to be more powerful
  as a good interactive system command.
 
-#================================================
 
-#   query detailed dependencies of a package
-
-#=================================================
+ #=============================================
+ 
+ #   query detailed dependencies of a package
+ 
+ #=============================================
 
  [abc@localhost ~]$ ./rpmyum.py -r wireless-tools
 
