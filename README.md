@@ -3,9 +3,7 @@ Python script to list rpm package information, Fedora10, yum-3.2.27.
 
 Developed on Fedora 10. May not be able to work on other system. July 2010.
 
-This script to query detailed information of
- package. It uses part of codes of the PackageKit/PackageKit-yum packages.
- Now it only support two query mode:
+This script to query detailed information of package. It uses part of codes of the PackageKit/PackageKit-yum packages.  Now it only support two query mode:
 
 
  1. Quey detailed information of a package
@@ -21,13 +19,12 @@ This script to query detailed information of
  programs. It would also be interesting if to extend it to be more powerful
  as a good interactive system command.
 
-
- =============================================
+=============================================
  
  
  query detailed dependencies of a package
  
- =============================================
+=============================================
 
  [abc@localhost ~]$ ./rpmyum.py -r wireless-tools
 
