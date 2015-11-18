@@ -28,73 +28,53 @@ This script to query detailed information of package. It uses part of codes of t
 
  [abc@localhost ~]$ ./rpmyum.py -r wireless-tools
 
- Retrieving the requires of package: wireless-tools :recursively
+     Retrieving the requires of package: wireless-tools :recursively
 
     #    Name    Summary
 
-    1    system-config-keyboard;1.2.15-4.fc10;noarch;installed   A
- graphical interface for modifying the keyboard
+    1    system-config-keyboard;1.2.15-4.fc10;noarch;installed   A  graphical interface for modifying the keyboard
 
-    2    booty;0.107-1.fc10;noarch;installed     simple python bootloader
- config lib
+    2    booty;0.107-1.fc10;noarch;installed     simple python bootloader  config lib
 
-    3    livecd-tools;020-1.fc10;i386;installed  Tools for building live
- CD's
+    3    livecd-tools;020-1.fc10;i386;installed  Tools for building live  CD's
 
-    4    firstboot;1.102-1.fc10;i386;installed   Initial system
- configuration utility
+    4    firstboot;1.102-1.fc10;i386;installed   Initial system configuration utility
 
-    5    system-config-network;1.5.93-2.fc10;noarch;installed    The GUI of
- the Network Adminstration Tool
+    5    system-config-network;1.5.93-2.fc10;noarch;installed    The GUI of the Network Adminstration Tool
 
-    6    rhpxl;1.9-3.fc10;i386;installed Python library for configuring and
- running X
+    6    rhpxl;1.9-3.fc10;i386;installed Python library for configuring and  running X
 
-    7    revisor-comps;2.1.2-2.fc10;noarch;installed     Revisor Comps
- Files
+    7    revisor-comps;2.1.2-2.fc10;noarch;installed     Revisor Comps  Files
 
-    8    revisor-cli;2.1.2-2.fc10;noarch;installed       Revisor CLI
- components
+    8    revisor-cli;2.1.2-2.fc10;noarch;installed       Revisor CLI  components
 
-    9    revisor-comps;2.1.4-1.fc10;noarch;installed     Revisor Comps
- Files
+    9    revisor-comps;2.1.4-1.fc10;noarch;installed     Revisor Comps Files
 
-    10    system-config-network-tui;1.5.93-2.fc10;noarch;installed
- The Network Adminstration Tool
+    10    system-config-network-tui;1.5.93-2.fc10;noarch;installed The Network Adminstration Tool
 
-    11    revisor-cli;2.1.4-1.fc10;noarch;installed       Revisor CLI
- components
+    11    revisor-cli;2.1.4-1.fc10;noarch;installed       Revisor CLI  components
 
-    12    revisor-gui;2.1.2-2.fc10;noarch;installed       Revisor GUI
-
-    13    system-config-firewall-tui;1.2.13-2.fc10;noarch;installed       A
- text interface for basic firewall setup
+    12    revisor-gui;2.1.2-2.fc10;noarch;installed       Revisor GUI 
+ 
+    13    system-config-firewall-tui;1.2.13-2.fc10;noarch;installed       A  text interface for basic firewall setup
 
     14    anaconda;11.4.1.62-1;i386;installed     Graphical system installer
 
-    15    system-config-kickstart;2.7.20-1.fc10;noarch;installed  A
- graphical interface for making kickstart files
+    15    system-config-kickstart;2.7.20-1.fc10;noarch;installed  A graphical interface for making kickstart files
 
-    16    system-config-display;1.1.1-1.fc10;noarch;installed     A
- graphical interface for configuring the X Window System display
+    16    system-config-display;1.1.1-1.fc10;noarch;installed     A graphical interface for configuring the X Window System display
 
-    17    rhpl;0.218-1;i386;installed     Library of Python code used by
- installation and configuration tools
+    17    rhpl;0.218-1;i386;installed     Library of Python code used by installation and configuration tools
 
-    18    system-config-firewall;1.2.13-2.fc10;noarch;installed   A
- graphical interface for basic firewall setup
+    18    system-config-firewall;1.2.13-2.fc10;noarch;installed   A graphical interface for basic firewall setup
 
-    19    revisor;2.1.2-2.fc10;noarch;installed   Fedora "Spin" Graphical
- User Interface
+    19    revisor;2.1.2-2.fc10;noarch;installed   Fedora "Spin" Graphical  User Interface
 
-    20    system-config-users;1.2.81-1.fc10;noarch;installed      A
- graphical interface for administering users and groups
+    20    system-config-users;1.2.81-1.fc10;noarch;installed      A  graphical interface for administering users and groups
 
-    21    system-config-date;1.9.34-1.fc10;noarch;installed       A
- graphical interface for modifying system date and time
+    21    system-config-date;1.9.34-1.fc10;noarch;installed       A  graphical interface for modifying system date and time
 
-    22    system-config-language;1.3.2-3.fc10;noarch;installed    A
- graphical interface for modifying the system language
+    22    system-config-language;1.3.2-3.fc10;noarch;installed    A  graphical interface for modifying the system language
 
     Done!
 
